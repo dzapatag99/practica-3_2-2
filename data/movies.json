@@ -1,0 +1,34 @@
+{
+    "movies": [
+        {
+            "name": "El rey Leon",
+            "description": "The Lion King és una pel·lícula musical animada estatunidenca de 1994, produïda per Walt Disney Feature Animation i dirigida per Roger Allers i Rob Minkoff. La trama de la pel·lícula està basada en la tragèdia Hamlet, de William Shakespeare.",
+            "pegi": 10,
+            "img": "el-rey-leon-2019.jpg"
+        },
+        {
+            "name": "El rey Leon",
+            "description": "The L és una pel·lícula musical animada estatunidenca de 1994, produïda per Walt Disney Feature Animation i dirigida per Roger Allers i Rob Minkoff. La trama de la pel·lícula està basada en la tragèdia Hamlet, de William Shakespeare.",
+            "pegi": 10,
+            "img": "el-rey-leon-2019.jpg"
+        },
+        {
+            "name": "El reon",
+            "description": "The Lion Kin·lícula musical animada estatunidenca de 1994, produïda per Walt Disney Feature Animation i dirigida per Roger Allers i Rob Minkoff. La trama de la pel·lícula està basada en la tragèdia Hamlet, de William Shakespeare.",
+            "pegi": 10,
+            "img": "el-rey-leon-2019.jpg"
+        },
+        {
+            "name": "l rey Leon",
+            "description": "The Lion King musical animada estatunidenca de 1994, produïda per Walt Disney Feature Animation i dirigida per Roger Allers i Rob Minkoff. La trama de la pel·lícula està basada en la tragèdia Hamlet, de William Shakespeare.",
+            "pegi": 10,
+            "img": "el-rey-leon-2019.jpg"
+        },
+        {
+            "name": "El rey Leon",
+            "description": "The Lion King és una pel·lícula musical animada estatunidenca de 1994, produïda per Walt Disney Feature Animation i dirigida per Roger Allers i Rob Minkoff. La trama de la pel·lícula està basada en la tragèdia Hamlet, de William Shakespeare.",
+            "pegi": 10,
+            "img": "el-rey-leon-2019.jpg"
+        }
+    ]
+}
